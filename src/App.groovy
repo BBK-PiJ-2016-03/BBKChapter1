@@ -5,6 +5,6 @@ class App {
 
     public static void main(String[] args){
         ExerciseA run = new ExerciseA()
-        run.one()
+        run.two()
     }
 }

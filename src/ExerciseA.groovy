@@ -7,4 +7,8 @@ class ExerciseA {
         println("")
     }
 
+    public static void two(){
+        println("Hickory, Dickory, Dock")
+    }
+
 }
