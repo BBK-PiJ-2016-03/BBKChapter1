@@ -4,7 +4,7 @@
 class App {
 
     public static void main(String[] args){
-        ExerciseA run = new ExerciseA()
-        run.three()
+        ExerciseB run = new ExerciseB()
+        run.conCat()
     }
 }
